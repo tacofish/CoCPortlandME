@@ -28,4 +28,4 @@ https://www.loc.gov/resource/g3732a.np000040/
 - I do not recommend making your character of asian descent, as you'll find yourself in a time in which internment camps are coming and suspicion runs high.
 - I also do not recommend making a character of German descent for the same reasons...
 
-NOTE: While I realize that those recommendations ARE indeed racially biased, that was the time period in which the story takes place. That sentiment is *not* my own, but that of a nation that had been thrust in to war through a surprise attack. It is one of a nation ready for a war the likes of which had never been seen.
+NOTE: While I realize that those recommendations ARE indeed racially biased, that was the time period in which the story takes place. That sentiment is *not* my own, but that of a nation that had been thrust in to war through a surprise attack. It is one of a nation ready for a war the likes of which had never been seen, and it is also the reality of that era. 
