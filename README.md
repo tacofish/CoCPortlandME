@@ -1,4 +1,9 @@
 # Call of Cthulhu, Portland, Maine Campaign
+## Introduction
+This Call of Cthulhu campaign is meant to give players a taste of the desperate terror that H.P. Lovecraft instilled in his readers as they descended into madness with the victims in his tale. The goal in this campaign is not to be historically accurate, but to give enough of a real sense to things to allow the players to relate what's happening in the game to actual places. People contained within are purely fictional, as are many of the events (duh, it's a Call of Cthulhu game).
+
+The game is set JUST after the United States entered World War II. Keep in mind that once the US entered the war, it turned from an isolationist state to a war machine. However, the population was terrified, as the possibility of the Germans winning the war seemed inevitable. Suspicion, intrigue, and suspense are obvious side-plots that can arise. As with most of these kinds of games, you'll have only as much fun as the amount of effort you put in. 
+
 ## Preparatory Information
 The year is 1942. The United States has entered the Great War, after the Japanese bombed Pearl Harbor in a sneak attack meant to cripple the US military. Europe is all but ready to topple to the Nazi war machine, as fascism spreads like wildfire. 
 
@@ -12,8 +17,13 @@ The local milkman, Darryl Whitcomb, has disappeared during a camping trip in to 
 ## Character Creation
 Flesh out your stories. The best way to enjoy the full horror of Lovecraftian tales is to fully immerse yourself in your character. Understand them, know their lives, and experience their sheer terror as they unravel slowly. For gazing into the void alone is not cause for insanity, but seeing what stares back is enough to drive civilizations mad. Call of Cthulhu is not a game about killing the "bad guys," but one of survival.
 
+## Further Reference Materials to Browse
+https://www.loc.gov/resource/g3732a.np000040/
+
 ## General Hints and Pointers
 - There is no FBI, CIA, NSA, etc... These "three letter agencies" did not exist, but there is the precursor to all of them.. There is the War Department.
 - Technology and how people behave is very different from then, and now.
 - Patriotism is at an all-time high, as is paranoia of spies and Nazi infiltrators.
 - People are far more superstitious than in the modern era.
+- I do not recommend making your character of asian descent, as you'll find yourself in a time in which internment camps are coming and suspicion runs high.
+- I also do not recommend making a character of German descent for the same reasons...
